@@ -1,3 +1,4 @@
+const hola = (2);
 const arregloMatriz = [
     [1,2],
     [3,4,5],
@@ -39,6 +40,7 @@ function obtenerPrimeraDimension(matrizUno: number[][]): number | boolean{
         const primeraDimensionArreglo = matrizUno.length;
         return primeraDimensionArreglo;
     }else{
+    
         return false;
     }
 }

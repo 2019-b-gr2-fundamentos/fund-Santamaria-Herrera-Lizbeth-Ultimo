@@ -1,0 +1,16 @@
+{
+    "nombre": "Lizbeth",
+    "apellido": "Santamaria",
+    "edad": 19,
+    "booleano": false,
+    "hijos": null,
+    "mascotas": ["cachetes"],
+    "primo":{
+        "nombre": "Santiago",
+        "apellido": "Portero",
+        "edad": 28,
+        "booleano": false,
+        "hijos": null,
+        "mascotas": ["Chiquita"]
+    }
+}

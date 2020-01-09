@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "libreria-ls": "^1.0.0"
+    "libreria-ls": "^1.5.0"
   }
 }

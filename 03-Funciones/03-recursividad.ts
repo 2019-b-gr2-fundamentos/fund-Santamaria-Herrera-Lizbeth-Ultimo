@@ -67,6 +67,7 @@ function productoCruz(vectores: number[][]){
     }
 
 }
+
  function main (){ 
      const arreglos =
     [
